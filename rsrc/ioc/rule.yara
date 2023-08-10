@@ -186,4 +186,4 @@ rule APT10_ChChes_powershell {
     		$v1c = "invoke-ExEDoc"
     	condition:
     		$v1c and ($v1a or $v1b)
-}
+} 
